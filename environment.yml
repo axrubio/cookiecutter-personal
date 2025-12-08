@@ -1,0 +1,11 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+  - tsnyder
+  - unic_onda
+  - anaconda
+  - main
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: C:\Users\USUARIO\miniconda3\envs\cookiecutter-personal
